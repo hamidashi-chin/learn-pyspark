@@ -1,5 +1,10 @@
 # PySparkでストリーミング処理
 
+この講座わかりにくかったので途中でやめました！
+
+## 動画で使用している資料
+https://github.com/yk-st/pyspark_streaming
+
 ## 環境構築
 
 ### リソース
